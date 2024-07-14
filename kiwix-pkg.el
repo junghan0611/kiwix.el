@@ -1,2 +1,0 @@
-;; Generated package description from kiwix.el  -*- no-byte-compile: t -*-
-(define-package "kiwix" "1.1.5.0.20220316.84759" "Searching offline Wikipedia through Kiwix." '((emacs "25.1") (request "0.3.0")) :commit "444f686a7f75db788d54f544b923a3532732eb8b" :authors '(("stardiviner" . "numbchild@gmail.com")) :maintainer '("stardiviner" . "numbchild@gmail.com") :keywords '("kiwix" "wikipedia") :url "https://repo.or.cz/kiwix.el.git")
